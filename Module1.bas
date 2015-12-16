@@ -1,6 +1,6 @@
 Option Compare Database
 Option Explicit
-
+' Added 12/16/2015
 Function ComboKeyValueStore(CtrlName As Control)
 Dim strActiveComboValue As String
 
